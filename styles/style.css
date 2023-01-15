@@ -1,0 +1,66 @@
+/* header part style*/
+
+.head {
+    background: rgba(255, 144, 14, 0.1);
+    background-size: cover;
+}
+
+.nav-title {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 130px;
+}
+
+.head-title {
+    font-size: 35px;
+    width: 700;
+    color: black;
+}
+
+.nav {
+    display: flex;
+    gap: 30px;
+    font-size: 18px;
+}
+
+.header {
+    text-align: center;
+    
+
+}
+
+.header-title {
+    font-size: 45px;
+    font-weight: 64px;
+    width: 900;
+    color: black;
+    margin-top: 50px;
+    margin-left: 450px;
+    margin-right: 450px;
+
+}
+
+.header-sub-title {
+    color: #727272;
+    margin: 0px 300px;
+
+}
+
+.header-btn {
+    margin-top: 30px;
+    padding: 11px 22px;
+    color: beige;
+    background: orange;
+    border: 1px solid;
+    border-radius: 5px;
+    font-size: 16px;
+
+}
+
+.image{
+    margin-top: 30px;
+    width: 1000px;
+    height: 400px;
+    margin-left: 180px;
+
+}
